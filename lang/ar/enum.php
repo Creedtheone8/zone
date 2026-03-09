@@ -1,0 +1,23 @@
+<?php
+
+return [
+    'male' => 'ذكر',
+    'female' => 'أنثى',
+    'other' => 'آخر',
+    'mr' => 'السيد.',
+    'mrs' => 'السّيدة',
+    'mx' => 'مكس.',
+    'recruiter' => 'صاحب العمل',
+    'jobseeker' => 'الباحث عن عمل',
+    'africa' => 'أفريقيا',
+    'antarctica' => 'القارة القطبية الجنوبية',
+    'asia' => 'آسيا',
+    'europe' => 'أوروبا',
+    'north_america' => 'أمريكا الشمالية',
+    'oceania' => 'أوقيانوسيا',
+    'south_america' => 'أمريكا الجنوبية',
+    'theme_light' => 'Light',
+    'theme_dark' => 'Dark',
+    'theme_system' => 'System',
+    'theme_auto' => 'Auto',
+];
